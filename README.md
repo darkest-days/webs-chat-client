@@ -2,4 +2,4 @@
 Web Socket chat built with React.
 
 Can be viewed at:
-https://darkest-days.online
+https://chat.darkest-days.ru
